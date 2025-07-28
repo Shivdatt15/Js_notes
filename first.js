@@ -1,4 +1,4 @@
 console.log("hello shiv");
 console.log("hello javascript");
-let a=22;
+let a=30;
 console.log(a);
